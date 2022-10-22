@@ -6,4 +6,9 @@
   <packaging>pom</packaging>
   <name>Shopme Online</name>
   <description>Root project of Shopme ECommerce application</description>
+  
+  <modules>
+  	<module>ShopmeCommon</module>
+  	<module>ShopmeWebParent</module>
+  </modules>
 </project>
